@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Shabab
 - 👀 I’m interested in AI development
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C,C++,DSA
+- HackerRank- https://www.hackerrank.com/profile/shabab21
+- CodeForces- https://codeforces.com/profile/Shabab_Rahman
 - 📫 How to reach me 'shababnandigram28@gmail.com'
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... We only see the world from a limited perspective, not the way it really is
