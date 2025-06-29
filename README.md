@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shabab
-- 👀 I’m interested in competetive coding
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in AI development
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 'shababnandigram28@gmail.com'
 - 😄 Pronouns: ... he/him
