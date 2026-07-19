@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shabab Rahman
+<h1 align="center">👋 Hi, I'm Shabab Rahman</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+There!+👋;I'm+Shabab+Rahman;Computer+Science+%26+Engineering+Student;Competitive+Programmer;Java+%7C+C%2B%2B+%7C+Python;Always+Learning+New+Things+🚀" />
@@ -39,17 +39,17 @@ Become a Software Engineer who builds efficient, scalable, and user-friendly app
 # 🧰 Tech Stack
 
 ### 💻 Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css" />
 </p>
 
 ### 🗄️ Database
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🛠️ Tools & Technologies
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,matlab,autocad" />
 </p>
 
@@ -72,6 +72,22 @@ Become a Software Engineer who builds efficient, scalable, and user-friendly app
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shabab47&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+## 🚀 Code. Learn. Repeat.
+
+```cpp
+int main() {
+
+    while(alive){
+        Learn();
+        Build();
+        Debug();
+        Improve();
+    }
+
+    return 0;
+}
+```
 ---
 
 
