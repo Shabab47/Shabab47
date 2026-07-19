@@ -1,12 +1,10 @@
-<h1 align="center">👋 Hi, I'm Shabab Rahman</h1>
+<h1 align="center">Hi 👋 , I'm Shabab Rahman</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+There!+👋;I'm+Shabab+Rahman;Computer+Science+%26+Engineering+Student;Competitive+Programmer;Java+%7C+C%2B%2B+%7C+Python;Always+Learning+New+Things+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shabab47&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<h3 align="center">Just trying to do better</h3>
 
 ---
 
