@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 , I'm Shabab Rahman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+There!+👋;I'm+Shabab+Rahman;Computer+Science+%26+Engineering+Student;Competitive+Programmer;Java+%7C+C%2B%2B+%7C+Python;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+There!+👋;I'm+Shabab+Rahman;Computer+Science+%26+Engineering+Student;Competitive+Programmer;C+C%2B%2B+%7C+Python;Always+Learning+New+Things+🚀" />
 </p>
 
 <h3 align="center">Just trying to do better</h3>
@@ -116,4 +116,9 @@ int main() {
 
 *"Code. Learn. Build. Repeat."*
 
+</p>
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;Shabab+Rahman;%24+status;Learning...;Building...;Improving...;%24+exit" />
 </p>
