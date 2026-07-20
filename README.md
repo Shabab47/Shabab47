@@ -59,15 +59,11 @@ Become a Software Engineer who builds efficient, scalable, and user-friendly app
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shabab47&theme=tokyonight" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=Shabab47&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Shabab47&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shabab47&theme=tokyo-night&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shabab47&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
